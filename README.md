@@ -5,6 +5,7 @@ This project is to implement a 3rd party web app call Doctors app to cover some 
 **apisecuresamplesappointment**
 
 This sample project is a secured api resource to test the OAuth2 access. This will be cover the scenario like Doctor accessing Appointment details which is secured with OAuth2 and after logged in to doctor's home page(solution-patterns) he would be able to view appointments(sample data) via the appointment option.
+
 To Do: Implementation for sending api request from doctor's app - will do like modifying Doctor's app(solution-patterns) which already implemented and customizing playground2 sample to incorporate the scenario and merge those to make working pattern) 
 
 **solution-paterns**
